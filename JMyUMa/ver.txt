@@ -1,0 +1,5 @@
+http://mysql.conclase.net/curso/?cap=013
+https://www.google.cl/search?q=privilegios+en+mysql&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:es-ES:official&client=firefox-a&channel=fflb
+http://dev.mysql.com/doc/refman/5.0/es/privileges-provided.html
+http://dev.mysql.com/doc/refman/5.0/es/grant.html
+http://www.dataprix.com/grants-grant-option-la-propiedad-transitiva-la-concesion-permisos
